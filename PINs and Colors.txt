@@ -1,0 +1,20 @@
+==================== ARDUINO PINS ====================
+2 - RMF12B - IRQ
+3 - DHT11  - Data
+4 - BMP280 - SDI
+5 - BMP280 - SDO
+6 - BMP280 - SCK
+7 - RMF12B - SEL
+8 - BMP280 - CSB
+9 - LED(G) - VCC
+10- LED(R) - VCC
+11- RMF12B - SDI
+12- RMF12B - SDO
+13- RMF12B - SCK
+
+==================== CABLE COLOR ====================
+Green - LEDs
+Blue  - DHT11
+Orange- Battery connection
+Purple- BMP280
+Yellow- RMF12B
